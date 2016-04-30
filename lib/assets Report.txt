@@ -1,0 +1,217 @@
+assets.swf Movie Report
+------------------------
+
+Metadata
+--------
+Bytes    Value
+-----    -----
+ 1290    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2011-07-10T14:28:25+10:00</xmp:CreateDate> <xmp:MetadataDate>2011-07-12T23:27:24+10:00</xmp:MetadataDate> <xmp:ModifyDate>2011-07-12T23:27:24+10:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:13794709ADAAE0118CA7C59788A9F71F</stRef:instanceID> <stRef:documentID>xmp.did:13794709ADAAE0118CA7C59788A9F71F</stRef:documentID> <stRef:originalDocumentID>xmp.did:13794709ADAAE0118CA7C59788A9F71F</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:4710027B8AACE0119774DAB441EC12F6</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:4710027B8AACE0119774DAB441EC12F6</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:13794709ADAAE0118CA7C59788A9F71F</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1         528267         528267    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                 18887
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+explosion_clip                         0             0                     0
+mini_explosion_wrapper                 0             0                     0
+bomb_mc                                0             0                     0
+bomber_mc                              0             0                     0
+bolter_turret_standing_wrapper         0             0                     0
+bolter_turret_firing_wrapper           0             0                     0
+bombbonus_mc                           0             0                     0
+medbonus_mc                            0             0                     0
+bullet2symbol                        139             0                     0
+bullet1symbol                        139             0                     0
+bulletshadowsymbol                    63             0                     0
+grenbonus_clip                         0             0                     0
+hero_hitboxes                          0             0                     0
+hero_stand_knife_wrapper               0             0                     0
+hero_stand_fire_wrapper                0             0                     0
+hero_run_knife_wrapper                 0             0                     0
+hero_run_wrapper                       0             0                     0
+HeroS_Foot1                          127             0                     0
+HeroS_bag1                           370             0                     0
+HeroS_Body1                          233             0                     0
+HeroS_eye1                            45             0                     0
+HeroS_hair1                          103             0                     0
+RiffleGun_gr                         686             0                     0
+PistolGun_gr                         387             0                     0
+AllGuns                                0             0                     0
+HeroS1Run                              0             0                     0
+gunfire1                              79             0                     0
+HeroS1StandFire                      325             0                     0
+HeroS1RunFire                          0             0                     0
+KnifeGun_gr                          235             0                     0
+HeroS1StandKnifeAttack               446             0                     0
+HeroS1RunKnifeAttack2                382             0                     0
+hero_stand                             0             0                     0
+hero_stand_wrapper                     0             0                     0
+hero_run_firing_wrapper                0             0                     0
+bodyHitbox                            48             0                     0
+footHitBox                            51             0                     0
+buttonZ                                0            49                     0
+buttonX                                0            49                     0
+buttonC                              169            49                     0
+buttonSpace                          175            58                     0
+GranadePotron_mc                     308             0                     0
+gui_grenade                          273             0                     0
+medwithoutshadow                     154             0                     0
+gui_screen                             0           889                     0
+Granade_mc                             0             0                     0
+explframe1                            89             0                     0
+Symbol 92                            125             0                     0
+explframe2                             0             0                     0
+Symbol 93                            590             0                     0
+Symbol 94                            211             0                     0
+Symbol 95                            902             0                     0
+Symbol 96                            416             0                     0
+Symbol 97                            875             0                     0
+Symbol 98                            476             0                     0
+Symbol 99                            651             0                     0
+Symbol 100                           529             0                     0
+Symbol 101                           852             0                     0
+Symbol 102                           345             0                     0
+Symbol 103                           940             0                     0
+Symbol 104                           128             0                     0
+Symbol 105                           893             0                     0
+expllastframe                          0             0                     0
+explosionmc                          882             0                     0
+bullet_shadow                          0             0                     0
+bullet1_mc                             0             0                     0
+bullet1_mc2                            0             0                     0
+Hero_Foot33                          107             0                     0
+Hero_Body3                           720             0                     0
+Hero_eye3                             79             0                     0
+Hero_Foot3                           105             0                     0
+Hero3                                 78             0                     0
+spider_clip                            0             0                     0
+spider_hitboxes                        0             0                     0
+Mine_mc2                            1007             0                     0
+minewrapper                            0             0                     0
+mine_hitboxes                          0             0                     0
+Hero_Foot2                            62             0                     0
+Hero_Foot22                          118             0                     0
+Hero_Body2                           203             0                     0
+Hero_eye2                             64             0                     0
+Hero_Mouth2                           56             0                     0
+Hero2                                146             0                     0
+zombie_clip                            0             0                     0
+zombie_hitboxes                        0             0                     0
+grenadebonus                           0             0                     0
+grenbonus_hitboxes                     0             0                     0
+bullet_hitboxes                        0             0                     0
+MedPackage                             0             0                     0
+medbonus_hitboxes                      0             0                     0
+bombbonus                              0             0                     0
+bombbonus_hitboxes                     0             0                     0
+EmptyBox_mc                          280             0                     0
+bolter                               398             0                     0
+bolter_turret_standing                 0             0                     0
+bolter_turret_hitboxes                 0             0                     0
+bolter_turret_firing                 560             0                     0
+Bomber_shadow                        160             0                     0
+bombshadow_piece                       0             0                     0
+bomb_piece                           420             0                     0
+Bombanim                               0             0                     0
+mini_explosion                       262             0                     0
+Trava1_gr                            602             0                     0
+Trava_obj1_gr                        187             0                     0
+CraterObj_mc                           0             0                     0
+Stones_gr2                           144             0                     0
+Trava3_gr                              0             0                     0
+Stones_gr1                           102             0                     0
+Trava2_gr                            603             0                     0
+Trava4_gr                            404             0                     0
+CraterObj2_mc                        591             0                     0
+Skull2_mc                            410             0                     0
+HangeBrick1                          401             0                     0
+MeshokBrick1_gr                     1762             0                     0
+Bunker_mc                           2178             0                     0
+MeshokBrick3_gr                     1392             0                     0
+WayBrick4_gr                         169             0                     0
+WayBrick5_gr                         127             0                     0
+lvl1_mc2                              46             0                     0
+expl_hole                              0             0                     0
+expl_hole copy                       934             0                     0
+
+
+Tweened Shapes: 1308 bytes
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+hooge05_55Cyr2                 5807     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
+ActionScript Bytes    Location
+------------------    --------
+               313    Scene 1:Frame 1:ammobonus_snd
+               315    Scene 1:Frame 1:bomb_explosion
+               303    Scene 1:Frame 1:hero_die
+               303    Scene 1:Frame 1:hero_hit
+               305    Scene 1:Frame 1:knife_snd
+               311    Scene 1:Frame 1:medbonus_snd
+               317    Scene 1:Frame 1:monster_die_snd
+               317    Scene 1:Frame 1:monster_hit_snd
+               305    Scene 1:Frame 1:plane_snd
+               305    Scene 1:Frame 1:shoot_snd
+               530    Scene 1:Frame 1:assets_fla.AllGuns_8
+               542    Scene 1:Frame 1:assets_fla.MedPackage_32
+               411    Scene 1:Frame 1:bodyHitbox
+               431    Scene 1:Frame 1:bolter_turret_firing
+               435    Scene 1:Frame 1:bolter_turret_hitboxes
+               435    Scene 1:Frame 1:bolter_turret_standing
+               405    Scene 1:Frame 1:bomb_mc
+               427    Scene 1:Frame 1:bombbonus_hitboxes
+               415    Scene 1:Frame 1:bombbonus_mc
+               409    Scene 1:Frame 1:bomber_mc
+               411    Scene 1:Frame 1:bullet1_mc
+               413    Scene 1:Frame 1:bullet1_mc2
+               421    Scene 1:Frame 1:bullet_hitboxes
+               417    Scene 1:Frame 1:bullet_shadow
+               409    Scene 1:Frame 1:expl_hole
+               419    Scene 1:Frame 1:explosion_clip
+               411    Scene 1:Frame 1:footHitBox
+               427    Scene 1:Frame 1:grenbonus_hitboxes
+               415    Scene 1:Frame 1:grenbonus_mc
+               545    Scene 1:Frame 1:gui_mc
+               417    Scene 1:Frame 1:hero_hitboxes
+               407    Scene 1:Frame 1:hero_run
+               417    Scene 1:Frame 1:hero_run_fire
+               419    Scene 1:Frame 1:hero_run_knife
+               411    Scene 1:Frame 1:hero_stand
+               421    Scene 1:Frame 1:hero_stand_fire
+               423    Scene 1:Frame 1:hero_stand_knife
+               403    Scene 1:Frame 1:level1
+               425    Scene 1:Frame 1:medbonus_hitboxes
+               413    Scene 1:Frame 1:medbonus_mc
+               417    Scene 1:Frame 1:mine_hitboxes
+               405    Scene 1:Frame 1:mine_mc
+               419    Scene 1:Frame 1:mini_explosion
+               413    Scene 1:Frame 1:spider_clip
+               421    Scene 1:Frame 1:spider_hitboxes
+               413    Scene 1:Frame 1:zombie_clip
+               421    Scene 1:Frame 1:zombie_hitboxes
+
+Event Sounds: 44KHz Mono 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Weapon Machine Gun World War II Historical Single Shot 01.mp3 101603        44KHz Mono 0 bit ADPCM
+Weapon Gun Cock Mic At Barrel 01.mp3   1991        11KHz Mono 16 kbps MP3
+Sports Bag Punching Bag Hit Single 01.mp3   1055        11KHz Mono 16 kbps MP3
+plane.wav                    8751        11KHz Mono 16 kbps MP3
+monster_die.wav             94221        44KHz Mono 0 bit ADPCM
+explosion.wav              183789        44KHz Mono 0 bit ADPCM
+Cartoon Human Male Screams While Falling 03.mp3  23415        11KHz Mono 16 kbps MP3
+Cartoon Human Male Scream In Pain Scream 01.mp3   1991        11KHz Mono 16 kbps MP3
+Cartoon Human Male Giggle 03.mp3   2615        11KHz Mono 16 kbps MP3
+Weapon Sword Whip 02.mp3    25399        44KHz Mono 0 bit ADPCM
+
+
+
+
